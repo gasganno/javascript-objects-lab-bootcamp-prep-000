@@ -1,4 +1,33 @@
-var recipes = {}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*var recipes = {}
 
 //2
 function updateObjectWithKeyAndValue(object, key, value) {
@@ -17,3 +46,4 @@ function deleteFromObjectByKey(object, key) {
 function destructivelyDeleteFromObjectByKey(object, key) {
   return object = delete object.key
 }
+*/
