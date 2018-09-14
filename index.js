@@ -13,9 +13,9 @@ function deleteFromObjectByKey(object, key) {
   return Object.assign(delete object.key)
 }
 
-function destructivelyDeleteFromObjectByKey(object, key) {
-  return object = delete object.key
-}
+//function destructivelyDeleteFromObjectByKey(object, key) {
+  //return object = delete object.key
+//}
 
 /*var recipes = {}
 
@@ -32,8 +32,8 @@ function destructivelyUpdateObjectWithKeyAndValue(object, key, value) {
 function deleteFromObjectByKey(object, key) {
   return Object.assign({}, delete object.key)
 }
-//5
+//5*/
 function destructivelyDeleteFromObjectByKey(object, key) {
   return object = delete object.key
 }
-*/
+//*/
